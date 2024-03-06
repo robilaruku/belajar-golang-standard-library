@@ -14,3 +14,4 @@ func TestStr(t *testing.T) {
 	fmt.Println(strings.Trim("    Robi Laruku    ", " "))
 	fmt.Println(strings.ReplaceAll("Robi Laruku Dream", "Robi", "Budi"))
 }
+
